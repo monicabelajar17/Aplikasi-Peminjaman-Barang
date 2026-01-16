@@ -1,0 +1,1 @@
+//Memastikan semua tombol (Login, Simpan, Pinjam) memiliki bentuk, warna, dan animasi yang sama.

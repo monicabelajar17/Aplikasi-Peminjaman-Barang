@@ -1,0 +1,1 @@
+//Logika untuk mengubah status pengajuan menjadi "Dipinjam" atau "Ditolak" disertai alasan.
