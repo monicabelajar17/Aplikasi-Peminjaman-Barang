@@ -14,3 +14,10 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Supabase Configuration
+
+Proyek ini menggunakan **Supabase** sebagai backend.
+
+SUPABASE_URL= https://inaydrozzillpxdneltv.supabase.co
+SUPABASE_ANON_KEY= sb_publishable_js-QBGTd2upKdQEa696D2Q_p110sXbj
